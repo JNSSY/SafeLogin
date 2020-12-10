@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="product_list_bac">#efeef4</color>
+
+    <color name="white">#ffffff</color>
+    <color name="keyboard_press">#6B706B</color>
+    <color name="keyboard_normal">#414341</color>
+    <color name="keyboard">#2d2e2d</color>
+<!--    <color name="keyboard_press">#6B706B</color>-->
+<!--    <color name="keyboard_normal">#414341</color>-->
+<!--    <color name="keyboard">#2d2e2d</color>-->
+</resources>

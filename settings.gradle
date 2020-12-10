@@ -1,0 +1,5 @@
+include ':facelib'
+include ':lockpattern'
+include ':fingerlib'
+include ':app', ':opencvlib'
+include ':ywkeyboard'

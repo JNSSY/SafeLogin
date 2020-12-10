@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/keyboard_general_press" />
+    <item
+        android:bottom="15dp"
+        android:drawable="@mipmap/icon_delete"
+        android:left="42dp"
+        android:right="42dp"
+        android:top="15dp" />
+
+</layer-list>
